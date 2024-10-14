@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "542bbf5acb24767539dc96973d0517fb533ffc01"
+                "reference": "3fc03aae2a9b471b5e15b8244dc2989209659930"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/542bbf5acb24767539dc96973d0517fb533ffc01",
-                "reference": "542bbf5acb24767539dc96973d0517fb533ffc01",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/3fc03aae2a9b471b5e15b8244dc2989209659930",
+                "reference": "3fc03aae2a9b471b5e15b8244dc2989209659930",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241009"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-10-09T20:27:54+00:00"
+            "time": "2024-10-14T19:55:59+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "95f71db4038a41f2a314176e552e248dec1c3ce5"
+                "reference": "98201ec57068dd258a01d23d233cea637caf2049"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/95f71db4038a41f2a314176e552e248dec1c3ce5",
-                "reference": "95f71db4038a41f2a314176e552e248dec1c3ce5",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/98201ec57068dd258a01d23d233cea637caf2049",
+                "reference": "98201ec57068dd258a01d23d233cea637caf2049",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241009"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2024-10-09T20:26:00+00:00"
+            "time": "2024-10-11T22:25:10+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "ef3ad665c6ac4ca1258bb50aa2b4e2af10326592"
+                "reference": "9d2fc97b2d27a19f4149795ec80a65dcfaeda13f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/ef3ad665c6ac4ca1258bb50aa2b4e2af10326592",
-                "reference": "ef3ad665c6ac4ca1258bb50aa2b4e2af10326592",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/9d2fc97b2d27a19f4149795ec80a65dcfaeda13f",
+                "reference": "9d2fc97b2d27a19f4149795ec80a65dcfaeda13f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1119,9 +1119,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241009"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-10-09T20:26:21+00:00"
+            "time": "2024-10-14T19:56:25+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -2608,28 +2608,31 @@
         },
         {
             "name": "drupal/consumer_image_styles",
-            "version": "4.0.8",
+            "version": "4.0.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/consumer_image_styles.git",
-                "reference": "4.0.8"
+                "reference": "4.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/consumer_image_styles-4.0.8.zip",
-                "reference": "4.0.8",
-                "shasum": "b68f5981cb243edc0c13081100b90b03a00e107e"
+                "url": "https://ftp.drupal.org/files/projects/consumer_image_styles-4.0.9.zip",
+                "reference": "4.0.9",
+                "shasum": "1e87eab8571f26421ba06967a5eb32b3d000ab68"
             },
             "require": {
-                "drupal/consumers": "^1.15",
-                "drupal/core": "^8 || ^9 || ^10",
-                "drupal/jsonapi_extras": "^3.23"
+                "drupal/consumers": "^1.19",
+                "drupal/core": "^9.5 || ^10 || ^11",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "drupal/jsonapi_extras": "^3.26"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "4.0.8",
-                    "datestamp": "1670566326",
+                    "version": "4.0.9",
+                    "datestamp": "1728590277",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3934,65 +3937,6 @@
             }
         },
         {
-            "name": "drupal/jsonapi_extras",
-            "version": "3.26.0",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/jsonapi_extras.git",
-                "reference": "8.x-3.26"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/jsonapi_extras-8.x-3.26.zip",
-                "reference": "8.x-3.26",
-                "shasum": "344fe5580f27ef4527ddb3e2eb8ef73bdf34bd82"
-            },
-            "require": {
-                "drupal/core": "^9.5 || ^10 || ^11",
-                "e0ipso/shaper": "^1",
-                "php": ">=8.1"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "8.x-3.26",
-                    "datestamp": "1727787963",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "Mateu Aguiló Bosch",
-                    "homepage": "https://www.drupal.org/user/3366066",
-                    "email": "mateu.aguilo.bosch@gmail.com"
-                },
-                {
-                    "name": "Martin Kolar",
-                    "homepage": "https://www.drupal.org/u/mkolar"
-                },
-                {
-                    "name": "Karel Majzlik",
-                    "homepage": "https://www.drupal.org/u/karlos007"
-                },
-                {
-                    "name": "Björn Brala",
-                    "homepage": "https://www.drupal.org/u/bbrala"
-                }
-            ],
-            "description": "JSON:API Extras provides a means to override and provide limited configurations to the default zero-configuration implementation provided by the JSON:API module.",
-            "homepage": "https://www.drupal.org/project/jsonapi_extras",
-            "support": {
-                "source": "https://git.drupalcode.org/project/jsonapi_extras"
-            }
-        },
-        {
             "name": "drupal/layout_builder_iframe_modal",
             "version": "1.3.0",
             "source": {
@@ -4048,17 +3992,17 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "6.1.4",
+            "version": "6.1.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "6.1.4"
+                "reference": "6.1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-6.1.4.zip",
-                "reference": "6.1.4",
-                "shasum": "f5544a39d691af5efd1532bd5403862a7153f60b"
+                "url": "https://ftp.drupal.org/files/projects/linkit-6.1.5.zip",
+                "reference": "6.1.5",
+                "shasum": "ce2e0f545e5213874e658a44ed3ef606b80b760d"
             },
             "require": {
                 "drupal/core": "^10.1"
@@ -4070,8 +4014,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.1.4",
-                    "datestamp": "1715203830",
+                    "version": "6.1.5",
+                    "datestamp": "1728680387",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5890,52 +5834,6 @@
             "time": "2024-08-02T11:57:29+00:00"
         },
         {
-            "name": "e0ipso/shaper",
-            "version": "1.2.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/e0ipso/shaper.git",
-                "reference": "7d73018ec4fe8de9730dfe755067cc02460e1a38"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/e0ipso/shaper/zipball/7d73018ec4fe8de9730dfe755067cc02460e1a38",
-                "reference": "7d73018ec4fe8de9730dfe755067cc02460e1a38",
-                "shasum": ""
-            },
-            "require": {
-                "justinrainbow/json-schema": "^5.2"
-            },
-            "require-dev": {
-                "php-coveralls/php-coveralls": "^2.4",
-                "phpunit/phpcov": "^8.2",
-                "phpunit/phpunit": "^9.5"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Shaper\\": "src",
-                    "Shaper\\Tests\\": "tests/src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-2.0"
-            ],
-            "authors": [
-                {
-                    "name": "Mateu Aguiló Bosch",
-                    "email": "mateu.aguilo.bosch@gmail.com"
-                }
-            ],
-            "description": "Lightweight library to handle in and out transformations in PHP.",
-            "support": {
-                "issues": "https://github.com/e0ipso/shaper/issues",
-                "source": "https://github.com/e0ipso/shaper/tree/1.2.4"
-            },
-            "time": "2021-05-19T09:42:57+00:00"
-        },
-        {
             "name": "egulias/email-validator",
             "version": "4.0.2",
             "source": {
@@ -6708,71 +6606,6 @@
                 }
             ],
             "time": "2024-07-18T09:59:12+00:00"
-        },
-        {
-            "name": "justinrainbow/json-schema",
-            "version": "5.3.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/jsonrainbow/json-schema.git",
-                "reference": "feb2ca6dd1cebdaf1ed60a4c8de2e53ce11c4fd8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/feb2ca6dd1cebdaf1ed60a4c8de2e53ce11c4fd8",
-                "reference": "feb2ca6dd1cebdaf1ed60a4c8de2e53ce11c4fd8",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=7.1"
-            },
-            "require-dev": {
-                "friendsofphp/php-cs-fixer": "~2.2.20||~2.15.1",
-                "json-schema/json-schema-test-suite": "1.2.0",
-                "phpunit/phpunit": "^4.8.35"
-            },
-            "bin": [
-                "bin/validate-json"
-            ],
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "JsonSchema\\": "src/JsonSchema/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Bruno Prieto Reis",
-                    "email": "bruno.p.reis@gmail.com"
-                },
-                {
-                    "name": "Justin Rainbow",
-                    "email": "justin.rainbow@gmail.com"
-                },
-                {
-                    "name": "Igor Wiedler",
-                    "email": "igor@wiedler.ch"
-                },
-                {
-                    "name": "Robert Schönthal",
-                    "email": "seroscho@googlemail.com"
-                }
-            ],
-            "description": "A library to validate a json schema.",
-            "homepage": "https://github.com/justinrainbow/json-schema",
-            "keywords": [
-                "json",
-                "schema"
-            ],
-            "support": {
-                "issues": "https://github.com/jsonrainbow/json-schema/issues",
-                "source": "https://github.com/jsonrainbow/json-schema/tree/5.3.0"
-            },
-            "time": "2024-07-06T21:00:26+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -9086,16 +8919,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp-assets-base",
-            "version": "v2.3.0",
+            "version": "v2.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-assets-base.git",
-                "reference": "c6396600f0929dde7b78de41e6841251a3467063"
+                "reference": "b21b0a05cdedce3eb242b06d9bea30186bfea8e1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/c6396600f0929dde7b78de41e6841251a3467063",
-                "reference": "c6396600f0929dde7b78de41e6841251a3467063",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-assets-base/zipball/b21b0a05cdedce3eb242b06d9bea30186bfea8e1",
+                "reference": "b21b0a05cdedce3eb242b06d9bea30186bfea8e1",
                 "shasum": ""
             },
             "require": {
@@ -9116,9 +8949,9 @@
             "description": "Assets for the SimpleSAMLphp main repository",
             "support": {
                 "issues": "https://github.com/simplesamlphp/simplesamlphp-assets-base/issues",
-                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.0"
+                "source": "https://github.com/simplesamlphp/simplesamlphp-assets-base/tree/v2.3.1"
             },
-            "time": "2024-09-06T16:21:56+00:00"
+            "time": "2024-10-13T01:14:49+00:00"
         },
         {
             "name": "simplesamlphp/xml-common",
