@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "6f691c6f39bcd63d9f95a4a6ba8d55fbc09f8afb"
+                "reference": "01e54c3c6a536877fafc9714525783384ea90c78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6f691c6f39bcd63d9f95a4a6ba8d55fbc09f8afb",
-                "reference": "6f691c6f39bcd63d9f95a4a6ba8d55fbc09f8afb",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/01e54c3c6a536877fafc9714525783384ea90c78",
+                "reference": "01e54c3c6a536877fafc9714525783384ea90c78",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-10-15T21:21:05+00:00"
+            "time": "2024-10-15T21:36:29+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "98201ec57068dd258a01d23d233cea637caf2049"
+                "reference": "fd6b75bcfdd2a66683e8c431cf35ccf82142c88c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/98201ec57068dd258a01d23d233cea637caf2049",
-                "reference": "98201ec57068dd258a01d23d233cea637caf2049",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/fd6b75bcfdd2a66683e8c431cf35ccf82142c88c",
+                "reference": "fd6b75bcfdd2a66683e8c431cf35ccf82142c88c",
                 "shasum": ""
             },
             "default-branch": true,
@@ -932,7 +932,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2024-10-11T22:25:10+00:00"
+            "time": "2024-10-15T21:44:27+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -940,12 +940,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/express_admin.git",
-                "reference": "603ac6a00b02fb8c95fd4614fb9d685502328596"
+                "reference": "c7af45fc4ba19222243deca8e1c2640555d6e324"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/603ac6a00b02fb8c95fd4614fb9d685502328596",
-                "reference": "603ac6a00b02fb8c95fd4614fb9d685502328596",
+                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/c7af45fc4ba19222243deca8e1c2640555d6e324",
+                "reference": "c7af45fc4ba19222243deca8e1c2640555d6e324",
                 "shasum": ""
             },
             "default-branch": true,
@@ -959,7 +959,7 @@
                 "issues": "https://github.com/CuBoulder/express_admin/issues",
                 "source": "https://github.com/CuBoulder/express_admin/tree/main"
             },
-            "time": "2024-10-03T22:30:59+00:00"
+            "time": "2024-10-15T21:52:25+00:00"
         },
         {
             "name": "cu-boulder/ucb_admin_menus",
@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "bd04dd1a526432c9bcc69065a7eb6a781b69539f"
+                "reference": "ebae80413f55ab5f089cd3ae778e4522cee81261"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/bd04dd1a526432c9bcc69065a7eb6a781b69539f",
-                "reference": "bd04dd1a526432c9bcc69065a7eb6a781b69539f",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/ebae80413f55ab5f089cd3ae778e4522cee81261",
+                "reference": "ebae80413f55ab5f089cd3ae778e4522cee81261",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-10-03T22:29:50+00:00"
+            "time": "2024-10-15T21:47:01+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1021,12 +1021,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "17226459a3bedcaa6f2b329a1a85987eb58f3564"
+                "reference": "faf533532a6821882ae70262b735cf2124a12dc7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/17226459a3bedcaa6f2b329a1a85987eb58f3564",
-                "reference": "17226459a3bedcaa6f2b329a1a85987eb58f3564",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/faf533532a6821882ae70262b735cf2124a12dc7",
+                "reference": "faf533532a6821882ae70262b735cf2124a12dc7",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1040,7 +1040,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2024-10-09T20:31:08+00:00"
+            "time": "2024-10-15T21:48:37+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -1048,12 +1048,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_campus_news.git",
-                "reference": "e29680f6e4853ed39ca12e814583ef29889ffa97"
+                "reference": "61a6def3e0110542ec352b74efef28a5d2277fba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/e29680f6e4853ed39ca12e814583ef29889ffa97",
-                "reference": "e29680f6e4853ed39ca12e814583ef29889ffa97",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/61a6def3e0110542ec352b74efef28a5d2277fba",
+                "reference": "61a6def3e0110542ec352b74efef28a5d2277fba",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1067,7 +1067,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_campus_news/issues",
                 "source": "https://github.com/CuBoulder/ucb_campus_news/tree/main"
             },
-            "time": "2024-10-03T22:28:58+00:00"
+            "time": "2024-10-15T21:55:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_ckeditor_plugins",
@@ -1075,12 +1075,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "10c8bd49278ea960c3b2e7438a9bb93b83f36cf1"
+                "reference": "1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/10c8bd49278ea960c3b2e7438a9bb93b83f36cf1",
-                "reference": "10c8bd49278ea960c3b2e7438a9bb93b83f36cf1",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6",
+                "reference": "1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1094,7 +1094,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2024-10-03T22:28:37+00:00"
+            "time": "2024-10-15T21:50:21+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "9d2fc97b2d27a19f4149795ec80a65dcfaeda13f"
+                "reference": "1a486bc5d46ae288996523e51f7910e5ce89fa53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/9d2fc97b2d27a19f4149795ec80a65dcfaeda13f",
-                "reference": "9d2fc97b2d27a19f4149795ec80a65dcfaeda13f",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/1a486bc5d46ae288996523e51f7910e5ce89fa53",
+                "reference": "1a486bc5d46ae288996523e51f7910e5ce89fa53",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1121,7 +1121,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
                 "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-10-14T19:56:25+00:00"
+            "time": "2024-10-15T21:47:34+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_default_content.git",
-                "reference": "5909a470ec0f63c14ecf9f2f992b5b2afa61f955"
+                "reference": "51d2cc80b40e7ad269ee68aa49737487031cee44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_default_content/zipball/5909a470ec0f63c14ecf9f2f992b5b2afa61f955",
-                "reference": "5909a470ec0f63c14ecf9f2f992b5b2afa61f955",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_default_content/zipball/51d2cc80b40e7ad269ee68aa49737487031cee44",
+                "reference": "51d2cc80b40e7ad269ee68aa49737487031cee44",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1148,7 +1148,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_default_content/issues",
                 "source": "https://github.com/CuBoulder/ucb_default_content/tree/main"
             },
-            "time": "2024-10-03T22:28:13+00:00"
+            "time": "2024-10-15T21:49:46+00:00"
         },
         {
             "name": "cu-boulder/ucb_drush_commands",
@@ -1183,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_focal_image_enable.git",
-                "reference": "032782ca9bea0056c93168a9ce5ecb5bf3dcfad4"
+                "reference": "fe215b8918398afcb4a6fbab0d7b44e43963ad6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_focal_image_enable/zipball/032782ca9bea0056c93168a9ce5ecb5bf3dcfad4",
-                "reference": "032782ca9bea0056c93168a9ce5ecb5bf3dcfad4",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_focal_image_enable/zipball/fe215b8918398afcb4a6fbab0d7b44e43963ad6e",
+                "reference": "fe215b8918398afcb4a6fbab0d7b44e43963ad6e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1202,7 +1202,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_focal_image_enable/issues",
                 "source": "https://github.com/CuBoulder/ucb_focal_image_enable/tree/main"
             },
-            "time": "2024-10-03T22:27:50+00:00"
+            "time": "2024-10-15T21:53:20+00:00"
         },
         {
             "name": "cu-boulder/ucb_linkmod",
@@ -1291,12 +1291,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "1457f925815d46c5fe92997e3196d72a937c543a"
+                "reference": "375188d15c51f8b024ae62bb7fa56e86089b86b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/1457f925815d46c5fe92997e3196d72a937c543a",
-                "reference": "1457f925815d46c5fe92997e3196d72a937c543a",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/375188d15c51f8b024ae62bb7fa56e86089b86b3",
+                "reference": "375188d15c51f8b024ae62bb7fa56e86089b86b3",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1310,7 +1310,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-10-03T22:31:23+00:00"
+            "time": "2024-10-15T21:40:15+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_styled_block.git",
-                "reference": "cce7204234b12ea0fed06d2ebd62d19944b2c22f"
+                "reference": "73f7123c7d815bf80ea6da5399ca544f57f2aa29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/cce7204234b12ea0fed06d2ebd62d19944b2c22f",
-                "reference": "cce7204234b12ea0fed06d2ebd62d19944b2c22f",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/73f7123c7d815bf80ea6da5399ca544f57f2aa29",
+                "reference": "73f7123c7d815bf80ea6da5399ca544f57f2aa29",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_styled_block/issues",
                 "source": "https://github.com/CuBoulder/ucb_styled_block/tree/main"
             },
-            "time": "2024-10-03T22:27:19+00:00"
+            "time": "2024-10-15T21:50:41+00:00"
         },
         {
             "name": "cu-boulder/ucb_third_party_libraries",
@@ -1372,12 +1372,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_user_invite.git",
-                "reference": "1de8751c1e9e95565faf5ca44cf1f826763ff105"
+                "reference": "15bc87eec2e8e7700b1d5a08e3e55faa988d9da4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_user_invite/zipball/1de8751c1e9e95565faf5ca44cf1f826763ff105",
-                "reference": "1de8751c1e9e95565faf5ca44cf1f826763ff105",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_user_invite/zipball/15bc87eec2e8e7700b1d5a08e3e55faa988d9da4",
+                "reference": "15bc87eec2e8e7700b1d5a08e3e55faa988d9da4",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1391,7 +1391,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_user_invite/issues",
                 "source": "https://github.com/CuBoulder/ucb_user_invite/tree/main"
             },
-            "time": "2024-10-03T22:26:50+00:00"
+            "time": "2024-10-15T21:53:03+00:00"
         },
         {
             "name": "cweagans/composer-patches",
