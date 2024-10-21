@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "35e166ba7ed23ad3753276e340ce9f5d36de6ef2"
+                "reference": "63aa6071702824f6abb7826ca9c6c0f08a4a7ae5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/35e166ba7ed23ad3753276e340ce9f5d36de6ef2",
-                "reference": "35e166ba7ed23ad3753276e340ce9f5d36de6ef2",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/63aa6071702824f6abb7826ca9c6c0f08a4a7ae5",
+                "reference": "63aa6071702824f6abb7826ca9c6c0f08a4a7ae5",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1119,9 +1119,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241017"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-10-17T15:10:00+00:00"
+            "time": "2024-10-21T22:04:34+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
