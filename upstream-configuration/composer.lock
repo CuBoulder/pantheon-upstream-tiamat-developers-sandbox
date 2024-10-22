@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "32e8350ea3eb37d1a00da25caa3c50142ff8451b"
+                "reference": "b6ecb448adc44dcf914e348272ea7bf100bd383b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/32e8350ea3eb37d1a00da25caa3c50142ff8451b",
-                "reference": "32e8350ea3eb37d1a00da25caa3c50142ff8451b",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b6ecb448adc44dcf914e348272ea7bf100bd383b",
+                "reference": "b6ecb448adc44dcf914e348272ea7bf100bd383b",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-10-22T17:12:37+00:00"
+            "time": "2024-10-22T22:17:05+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1156,12 +1156,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "6355c18ddd1df2fe6792ec010de1470439b35594"
+                "reference": "edb1853380502d3d77b8b95379bd7baccdcb7218"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/6355c18ddd1df2fe6792ec010de1470439b35594",
-                "reference": "6355c18ddd1df2fe6792ec010de1470439b35594",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/edb1853380502d3d77b8b95379bd7baccdcb7218",
+                "reference": "edb1853380502d3d77b8b95379bd7baccdcb7218",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1175,7 +1175,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
                 "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/main"
             },
-            "time": "2024-09-30T20:39:54+00:00"
+            "time": "2024-10-22T21:27:07+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
