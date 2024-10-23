@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "cf66a7794cff8f7be4bb6d41e5b451e29edf4f83"
+                "reference": "11fcff2098585357fb22a0be7ad0cfe6041fc9a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/cf66a7794cff8f7be4bb6d41e5b451e29edf4f83",
-                "reference": "cf66a7794cff8f7be4bb6d41e5b451e29edf4f83",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/11fcff2098585357fb22a0be7ad0cfe6041fc9a8",
+                "reference": "11fcff2098585357fb22a0be7ad0cfe6041fc9a8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-10-22T22:29:27+00:00"
+            "time": "2024-10-23T15:51:45+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -6980,16 +6980,16 @@
         },
         {
             "name": "league/container",
-            "version": "4.2.2",
+            "version": "4.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/container.git",
-                "reference": "ff346319ca1ff0e78277dc2311a42107cc1aab88"
+                "reference": "72f9bebe7bd623007782a40f5ec305661ab706d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/container/zipball/ff346319ca1ff0e78277dc2311a42107cc1aab88",
-                "reference": "ff346319ca1ff0e78277dc2311a42107cc1aab88",
+                "url": "https://api.github.com/repos/thephpleague/container/zipball/72f9bebe7bd623007782a40f5ec305661ab706d8",
+                "reference": "72f9bebe7bd623007782a40f5ec305661ab706d8",
                 "shasum": ""
             },
             "require": {
@@ -7050,7 +7050,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/container/issues",
-                "source": "https://github.com/thephpleague/container/tree/4.2.2"
+                "source": "https://github.com/thephpleague/container/tree/4.2.3"
             },
             "funding": [
                 {
@@ -7058,7 +7058,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-13T13:12:53+00:00"
+            "time": "2024-10-23T12:06:58+00:00"
         },
         {
             "name": "league/uri-interfaces",
@@ -7674,7 +7674,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "b14f9d0287d8f2b5bcf275742ce41e40e0e3340a"
+                "reference": "b8d335a23ac667e234ea59275753ae35ef854316"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7791,7 +7791,7 @@
                 "laminas/laminas-escaper": "2.13.0",
                 "laminas/laminas-feed": "2.23.0",
                 "laminas/laminas-stdlib": "3.19.0",
-                "league/container": "4.2.2",
+                "league/container": "4.2.3",
                 "league/uri-interfaces": "7.4.1",
                 "masterminds/html5": "2.8.1",
                 "mck89/peast": "v1.15.4",
@@ -15060,16 +15060,16 @@
         },
         {
             "name": "open-telemetry/sdk",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opentelemetry-php/sdk.git",
-                "reference": "126319e6b3996c609fded69f1e3e9dc1582c64af"
+                "reference": "fb0ff8d8279a3776bd604791e2531dd0cc147e8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opentelemetry-php/sdk/zipball/126319e6b3996c609fded69f1e3e9dc1582c64af",
-                "reference": "126319e6b3996c609fded69f1e3e9dc1582c64af",
+                "url": "https://api.github.com/repos/opentelemetry-php/sdk/zipball/fb0ff8d8279a3776bd604791e2531dd0cc147e8b",
+                "reference": "fb0ff8d8279a3776bd604791e2531dd0cc147e8b",
                 "shasum": ""
             },
             "require": {
@@ -15146,7 +15146,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2024-10-15T22:42:37+00:00"
+            "time": "2024-10-18T21:01:35+00:00"
         },
         {
             "name": "open-telemetry/sem-conv",
