@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "2f4991d4036d7c8743ae1ecc2683210d60a2cb75"
+                "reference": "5e54acd280acb132ce650d8477623dc836d74d32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/2f4991d4036d7c8743ae1ecc2683210d60a2cb75",
-                "reference": "2f4991d4036d7c8743ae1ecc2683210d60a2cb75",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/5e54acd280acb132ce650d8477623dc836d74d32",
+                "reference": "5e54acd280acb132ce650d8477623dc836d74d32",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-11-07T19:46:30+00:00"
+            "time": "2024-11-12T18:00:35+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -4387,17 +4387,17 @@
         },
         {
             "name": "drupal/menu_firstchild",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/menu_firstchild.git",
-                "reference": "2.1.0"
+                "reference": "2.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/menu_firstchild-2.1.0.zip",
-                "reference": "2.1.0",
-                "shasum": "5ef4e4812f367be5f78ad18d6593087528a684c6"
+                "url": "https://ftp.drupal.org/files/projects/menu_firstchild-2.1.1.zip",
+                "reference": "2.1.1",
+                "shasum": "a731989a49f3cc067a043c7711563c92578ca64a"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10"
@@ -4405,8 +4405,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.0",
-                    "datestamp": "1698600490",
+                    "version": "2.1.1",
+                    "datestamp": "1731272496",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4859,7 +4859,7 @@
             ],
             "authors": [
                 {
-                    "name": "Berdir",
+                    "name": "berdir",
                     "homepage": "https://www.drupal.org/user/214652"
                 },
                 {
@@ -4879,7 +4879,7 @@
                     "homepage": "https://www.drupal.org/user/227761"
                 },
                 {
-                    "name": "Primsi",
+                    "name": "primsi",
                     "homepage": "https://www.drupal.org/user/282629"
                 }
             ],
@@ -6980,16 +6980,16 @@
         },
         {
             "name": "league/container",
-            "version": "4.2.3",
+            "version": "4.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/container.git",
-                "reference": "72f9bebe7bd623007782a40f5ec305661ab706d8"
+                "reference": "7ea728b013b9a156c409c6f0fc3624071b742dec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/container/zipball/72f9bebe7bd623007782a40f5ec305661ab706d8",
-                "reference": "72f9bebe7bd623007782a40f5ec305661ab706d8",
+                "url": "https://api.github.com/repos/thephpleague/container/zipball/7ea728b013b9a156c409c6f0fc3624071b742dec",
+                "reference": "7ea728b013b9a156c409c6f0fc3624071b742dec",
                 "shasum": ""
             },
             "require": {
@@ -7050,7 +7050,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/container/issues",
-                "source": "https://github.com/thephpleague/container/tree/4.2.3"
+                "source": "https://github.com/thephpleague/container/tree/4.2.4"
             },
             "funding": [
                 {
@@ -7058,7 +7058,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-10-23T12:06:58+00:00"
+            "time": "2024-11-10T12:42:13+00:00"
         },
         {
             "name": "league/uri-interfaces",
