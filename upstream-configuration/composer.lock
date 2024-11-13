@@ -1048,12 +1048,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_campus_news.git",
-                "reference": "4e032a69e0b1e3dcf3c394283d17aff2c2f97bda"
+                "reference": "c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/4e032a69e0b1e3dcf3c394283d17aff2c2f97bda",
-                "reference": "4e032a69e0b1e3dcf3c394283d17aff2c2f97bda",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8",
+                "reference": "c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1065,9 +1065,9 @@
             "description": "Provides a block for CU Boulder campus news.",
             "support": {
                 "issues": "https://github.com/CuBoulder/ucb_campus_news/issues",
-                "source": "https://github.com/CuBoulder/ucb_campus_news/tree/pre-d10"
+                "source": "https://github.com/CuBoulder/ucb_campus_news/tree/main"
             },
-            "time": "2024-11-13T16:52:42+00:00"
+            "time": "2024-11-13T20:51:21+00:00"
         },
         {
             "name": "cu-boulder/ucb_ckeditor_plugins",
