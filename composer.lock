@@ -7767,11 +7767,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-<<<<<<< HEAD
-                "reference": "ce5e96321af75551ee05e6ba03a24706ec8a47ac"
-=======
                 "reference": "e874a3cdd57689bf975420aaf459bc355adb8dce"
->>>>>>> efbecd9a90d8a181d4893999e686ddb377ab1b97
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
