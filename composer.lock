@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "7033ad19dea631be1aa3684acf20907823fceee9"
+                "reference": "a43d2b885b003d5397de669b4e221467a853a1a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/7033ad19dea631be1aa3684acf20907823fceee9",
-                "reference": "7033ad19dea631be1aa3684acf20907823fceee9",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/a43d2b885b003d5397de669b4e221467a853a1a8",
+                "reference": "a43d2b885b003d5397de669b4e221467a853a1a8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241113"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-11-13T17:09:20+00:00"
+            "time": "2024-11-18T18:33:28+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
