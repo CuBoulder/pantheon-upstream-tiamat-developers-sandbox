@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "ebae80413f55ab5f089cd3ae778e4522cee81261"
+                "reference": "e996b7d6c2f65995e56503be3fd2af9671d6d7e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/ebae80413f55ab5f089cd3ae778e4522cee81261",
-                "reference": "ebae80413f55ab5f089cd3ae778e4522cee81261",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/e996b7d6c2f65995e56503be3fd2af9671d6d7e2",
+                "reference": "e996b7d6c2f65995e56503be3fd2af9671d6d7e2",
                 "shasum": ""
             },
             "default-branch": true,
@@ -986,7 +986,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-10-15T21:47:01+00:00"
+            "time": "2024-11-19T23:48:21+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
