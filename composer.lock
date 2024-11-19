@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "4f4d91aca2e556050dcec2369f57f780157d4e8c"
+                "reference": "c12259f43f3e54a4c7a2b0eadabbfcf486a1bf9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/4f4d91aca2e556050dcec2369f57f780157d4e8c",
-                "reference": "4f4d91aca2e556050dcec2369f57f780157d4e8c",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/c12259f43f3e54a4c7a2b0eadabbfcf486a1bf9f",
+                "reference": "c12259f43f3e54a4c7a2b0eadabbfcf486a1bf9f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-11-19T18:44:44+00:00"
+            "time": "2024-11-19T20:25:36+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "de87489eef5667f9c926e8ec3ceea7915435d358"
+                "reference": "9f581ab9e41af9dbf5a7956c2c96449294233820"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/de87489eef5667f9c926e8ec3ceea7915435d358",
-                "reference": "de87489eef5667f9c926e8ec3ceea7915435d358",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/9f581ab9e41af9dbf5a7956c2c96449294233820",
+                "reference": "9f581ab9e41af9dbf5a7956c2c96449294233820",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241113"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2024-11-13T17:04:52+00:00"
+            "time": "2024-11-19T20:25:11+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "ec4718d6e1412fb145052b8543ca614bc344ea3c"
+                "reference": "ee4b7f2f8318911c2f3b891c5ee37943ef2126c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/ec4718d6e1412fb145052b8543ca614bc344ea3c",
-                "reference": "ec4718d6e1412fb145052b8543ca614bc344ea3c",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/ee4b7f2f8318911c2f3b891c5ee37943ef2126c8",
+                "reference": "ee4b7f2f8318911c2f3b891c5ee37943ef2126c8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241113"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-11-13T17:05:38+00:00"
+            "time": "2024-11-19T20:24:53+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -7767,7 +7767,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "94af3cfed2741400d27479efd2394d5a505effdc"
+                "reference": "526cb2742e6733ecbccb261858a15f72e10ad411"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7926,7 +7926,7 @@
                 "robrichards/xmlseclibs": "3.1.1",
                 "sebastian/diff": "4.0.6",
                 "simplehtmldom/simplehtmldom": "2.0-RC2",
-                "simplesamlphp/assert": "v1.4.0",
+                "simplesamlphp/assert": "v1.5.0",
                 "simplesamlphp/composer-module-installer": "v1.3.5",
                 "simplesamlphp/composer-xmlprovider-installer": "v1.0.1",
                 "simplesamlphp/saml2": "v4.6.12",
@@ -9131,16 +9131,16 @@
         },
         {
             "name": "simplesamlphp/assert",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/assert.git",
-                "reference": "cf9465870eb9fb52103e045217f6dca19aee7c84"
+                "reference": "f6872f002d34b8e20c19d0823b107d2c74ddfd9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/cf9465870eb9fb52103e045217f6dca19aee7c84",
-                "reference": "cf9465870eb9fb52103e045217f6dca19aee7c84",
+                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/f6872f002d34b8e20c19d0823b107d2c74ddfd9d",
+                "reference": "f6872f002d34b8e20c19d0823b107d2c74ddfd9d",
                 "shasum": ""
             },
             "require": {
@@ -9184,9 +9184,9 @@
             "description": "A wrapper around webmozart/assert to make it useful beyond checking method arguments",
             "support": {
                 "issues": "https://github.com/simplesamlphp/assert/issues",
-                "source": "https://github.com/simplesamlphp/assert/tree/v1.4.0"
+                "source": "https://github.com/simplesamlphp/assert/tree/v1.5.0"
             },
-            "time": "2024-10-28T22:10:22+00:00"
+            "time": "2024-11-19T18:52:10+00:00"
         },
         {
             "name": "simplesamlphp/composer-module-installer",
