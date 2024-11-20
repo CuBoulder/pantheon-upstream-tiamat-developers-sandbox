@@ -1102,12 +1102,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6"
+                "reference": "10346080ac07a756c7e4ab2546a83ecf78924ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6",
-                "reference": "1d79f52d6bc3f9765c35f84b8e2d3a542774d7d6",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/10346080ac07a756c7e4ab2546a83ecf78924ed0",
+                "reference": "10346080ac07a756c7e4ab2546a83ecf78924ed0",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1121,7 +1121,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2024-10-15T21:50:21+00:00"
+            "time": "2024-11-20T00:16:08+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
