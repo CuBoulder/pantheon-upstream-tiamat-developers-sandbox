@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "f88bb2255f7e392c00226c9d014927d3462185d7"
+                "reference": "48391f8a147a67486781c9223ff2a33835138894"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/f88bb2255f7e392c00226c9d014927d3462185d7",
-                "reference": "f88bb2255f7e392c00226c9d014927d3462185d7",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/48391f8a147a67486781c9223ff2a33835138894",
+                "reference": "48391f8a147a67486781c9223ff2a33835138894",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241120"
             },
-            "time": "2024-11-19T21:54:40+00:00"
+            "time": "2024-11-20T17:19:10+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "347439bc1ae4ba992f4df3592915e7e79b6cc929"
+                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/347439bc1ae4ba992f4df3592915e7e79b6cc929",
-                "reference": "347439bc1ae4ba992f4df3592915e7e79b6cc929",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/942703eb78bc68c4308fc47dc7b49a56f6455189",
+                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241120"
             },
-            "time": "2024-11-19T23:13:40+00:00"
+            "time": "2024-11-20T17:17:19+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "cda73dfcbe5f4269d94c6210b5a219c97dde7d62"
+                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/cda73dfcbe5f4269d94c6210b5a219c97dde7d62",
-                "reference": "cda73dfcbe5f4269d94c6210b5a219c97dde7d62",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
+                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241120"
             },
-            "time": "2024-11-19T21:38:43+00:00"
+            "time": "2024-11-20T17:17:38+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -7767,7 +7767,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "526cb2742e6733ecbccb261858a15f72e10ad411"
+                "reference": "6cbd0db9bac66b62b71779708df8710b95ed8b4c"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7923,7 +7923,7 @@
                 "psr/log": "3.0.2",
                 "psy/psysh": "v0.12.4",
                 "ralouphie/getallheaders": "3.0.3",
-                "robrichards/xmlseclibs": "3.1.1",
+                "robrichards/xmlseclibs": "3.1.2",
                 "sebastian/diff": "4.0.6",
                 "simplehtmldom/simplehtmldom": "2.0-RC2",
                 "simplesamlphp/assert": "v1.5.0",
@@ -8948,16 +8948,16 @@
         },
         {
             "name": "robrichards/xmlseclibs",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robrichards/xmlseclibs.git",
-                "reference": "f8f19e58f26cdb42c54b214ff8a820760292f8df"
+                "reference": "56361cc2970162539ffbaaaaecb8127a715f380f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/f8f19e58f26cdb42c54b214ff8a820760292f8df",
-                "reference": "f8f19e58f26cdb42c54b214ff8a820760292f8df",
+                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/56361cc2970162539ffbaaaaecb8127a715f380f",
+                "reference": "56361cc2970162539ffbaaaaecb8127a715f380f",
                 "shasum": ""
             },
             "require": {
@@ -8984,9 +8984,9 @@
             ],
             "support": {
                 "issues": "https://github.com/robrichards/xmlseclibs/issues",
-                "source": "https://github.com/robrichards/xmlseclibs/tree/3.1.1"
+                "source": "https://github.com/robrichards/xmlseclibs/tree/3.1.2"
             },
-            "time": "2020-09-05T13:00:25+00:00"
+            "time": "2024-11-20T13:01:55+00:00"
         },
         {
             "name": "sebastian/diff",
