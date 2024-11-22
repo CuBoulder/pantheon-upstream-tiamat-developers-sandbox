@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189"
+                "reference": "a02169c0dc47cacd47e2d11c30904a7182eaa068"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/942703eb78bc68c4308fc47dc7b49a56f6455189",
-                "reference": "942703eb78bc68c4308fc47dc7b49a56f6455189",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/a02169c0dc47cacd47e2d11c30904a7182eaa068",
+                "reference": "a02169c0dc47cacd47e2d11c30904a7182eaa068",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241120"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241122"
             },
-            "time": "2024-11-20T17:17:19+00:00"
+            "time": "2024-11-22T20:40:40+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e"
+                "reference": "3bde6240182e7626a2984774bebfd94fe8ab1617"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
-                "reference": "6d229ff78619f3afdb8ba28f24d3a5ae5cbe322e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/3bde6240182e7626a2984774bebfd94fe8ab1617",
+                "reference": "3bde6240182e7626a2984774bebfd94fe8ab1617",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241120"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241122"
             },
-            "time": "2024-11-20T17:17:38+00:00"
+            "time": "2024-11-22T20:41:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1183,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "0f40eb6845bbac01a920db688e60f5e9c88ca3e6"
+                "reference": "ebd01cbeaeb1e567345c5c94014c0aa58b91cf14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/0f40eb6845bbac01a920db688e60f5e9c88ca3e6",
-                "reference": "0f40eb6845bbac01a920db688e60f5e9c88ca3e6",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/ebd01cbeaeb1e567345c5c94014c0aa58b91cf14",
+                "reference": "ebd01cbeaeb1e567345c5c94014c0aa58b91cf14",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1202,7 +1202,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
                 "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/main"
             },
-            "time": "2024-11-13T20:58:06+00:00"
+            "time": "2024-11-22T20:26:51+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
