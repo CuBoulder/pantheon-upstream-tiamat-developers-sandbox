@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "6d1c92e8ca61fb015720cdd06f3c23f087415af5"
+                "reference": "163803ff613203a5a33967b53a5426967009098e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6d1c92e8ca61fb015720cdd06f3c23f087415af5",
-                "reference": "6d1c92e8ca61fb015720cdd06f3c23f087415af5",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/163803ff613203a5a33967b53a5426967009098e",
+                "reference": "163803ff613203a5a33967b53a5426967009098e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-11-22T16:33:58+00:00"
+            "time": "2024-11-22T17:07:56+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1075,12 +1075,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_campus_news.git",
-                "reference": "c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8"
+                "reference": "6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8",
-                "reference": "c9db18bf9d04a2a7ad1b42d1d07413c82bfde1f8",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e",
+                "reference": "6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1094,7 +1094,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_campus_news/issues",
                 "source": "https://github.com/CuBoulder/ucb_campus_news/tree/main"
             },
-            "time": "2024-11-13T20:51:21+00:00"
+            "time": "2024-11-22T17:10:53+00:00"
         },
         {
             "name": "cu-boulder/ucb_ckeditor_plugins",
