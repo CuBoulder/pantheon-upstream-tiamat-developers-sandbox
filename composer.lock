@@ -1021,12 +1021,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_article_syndication.git",
-                "reference": "361a8b79aa6d8b1c3701ffdfe4b39e4cd1acb9e8"
+                "reference": "110a7bff326a4423ee507e8951a7b3fcc6d33645"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_article_syndication/zipball/361a8b79aa6d8b1c3701ffdfe4b39e4cd1acb9e8",
-                "reference": "361a8b79aa6d8b1c3701ffdfe4b39e4cd1acb9e8",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_article_syndication/zipball/110a7bff326a4423ee507e8951a7b3fcc6d33645",
+                "reference": "110a7bff326a4423ee507e8951a7b3fcc6d33645",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1040,7 +1040,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_article_syndication/issues",
                 "source": "https://github.com/CuBoulder/ucb_article_syndication/tree/main"
             },
-            "time": "2024-10-30T17:20:46+00:00"
+            "time": "2024-12-03T21:27:57+00:00"
         },
         {
             "name": "cu-boulder/ucb_bootstrap_layouts",
@@ -3896,17 +3896,17 @@
         },
         {
             "name": "drupal/google_tag",
-            "version": "2.0.6",
+            "version": "2.0.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/google_tag.git",
-                "reference": "2.0.6"
+                "reference": "2.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/google_tag-2.0.6.zip",
-                "reference": "2.0.6",
-                "shasum": "c8f2895a81a7898ac909bdc693fcd25ffe6f62be"
+                "url": "https://ftp.drupal.org/files/projects/google_tag-2.0.7.zip",
+                "reference": "2.0.7",
+                "shasum": "01e190248c86c592d8d96ea79c918883c0385a76"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -3923,8 +3923,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.6",
-                    "datestamp": "1721948116",
+                    "version": "2.0.7",
+                    "datestamp": "1733177458",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5992,16 +5992,16 @@
         },
         {
             "name": "e0ipso/shaper",
-            "version": "1.2.4",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/e0ipso/shaper.git",
-                "reference": "7d73018ec4fe8de9730dfe755067cc02460e1a38"
+                "reference": "78e5142a11323ae1359ef569f1c8064177c1fdd4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/e0ipso/shaper/zipball/7d73018ec4fe8de9730dfe755067cc02460e1a38",
-                "reference": "7d73018ec4fe8de9730dfe755067cc02460e1a38",
+                "url": "https://api.github.com/repos/e0ipso/shaper/zipball/78e5142a11323ae1359ef569f1c8064177c1fdd4",
+                "reference": "78e5142a11323ae1359ef569f1c8064177c1fdd4",
                 "shasum": ""
             },
             "require": {
@@ -6032,9 +6032,9 @@
             "description": "Lightweight library to handle in and out transformations in PHP.",
             "support": {
                 "issues": "https://github.com/e0ipso/shaper/issues",
-                "source": "https://github.com/e0ipso/shaper/tree/1.2.4"
+                "source": "https://github.com/e0ipso/shaper/tree/1.2.5"
             },
-            "time": "2021-05-19T09:42:57+00:00"
+            "time": "2024-12-03T05:49:15+00:00"
         },
         {
             "name": "egulias/email-validator",
@@ -7772,7 +7772,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "1e5b388cd79f2a36ab6a8515946aa0e559e02692"
+                "reference": "8d2a612b517c7e1dfb5228db2e778ddf20042afd"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7845,7 +7845,7 @@
                 "drupal/field_group": "3.6.0",
                 "drupal/focal_point": "2.1.2",
                 "drupal/google_cse": "4.0.0",
-                "drupal/google_tag": "2.0.6",
+                "drupal/google_tag": "2.0.7",
                 "drupal/jsonapi_extras": "3.26.0",
                 "drupal/layout_builder_iframe_modal": "1.3.0",
                 "drupal/linkit": "6.1.6",
@@ -7876,7 +7876,7 @@
                 "drupal/twig_tweak": "3.3.0",
                 "drupal/webform": "6.2.8",
                 "drush/drush": "12.5.3",
-                "e0ipso/shaper": "1.2.4",
+                "e0ipso/shaper": "1.2.5",
                 "egulias/email-validator": "4.0.2",
                 "gettext/gettext": "v5.7.3",
                 "gettext/languages": "2.10.0",
@@ -7937,7 +7937,7 @@
                 "simplesamlphp/saml2": "v4.16.14",
                 "simplesamlphp/simplesamlphp": "v2.3.5",
                 "simplesamlphp/simplesamlphp-assets-base": "v2.3.2",
-                "simplesamlphp/xml-common": "v1.20.0",
+                "simplesamlphp/xml-common": "v1.20.1",
                 "simplesamlphp/xml-security": "v1.10.0",
                 "symfony/cache": "v6.4.16",
                 "symfony/cache-contracts": "v3.5.1",
@@ -9507,16 +9507,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.20.0",
+            "version": "v1.20.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "9cf986ee7d97c02feb992c78f51024f45b068c19"
+                "reference": "525095b5c09072996217d7f4acb9052af9bc9578"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/9cf986ee7d97c02feb992c78f51024f45b068c19",
-                "reference": "9cf986ee7d97c02feb992c78f51024f45b068c19",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/525095b5c09072996217d7f4acb9052af9bc9578",
+                "reference": "525095b5c09072996217d7f4acb9052af9bc9578",
                 "shasum": ""
             },
             "require": {
@@ -9564,7 +9564,7 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-12-01T23:01:07+00:00"
+            "time": "2024-12-03T07:51:40+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",
