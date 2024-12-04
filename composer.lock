@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "1feda79c89d638c3120a7f452138c44703b72363"
+                "reference": "95b8d49f7c6d8b7936e94e577c2582beaa47f302"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1feda79c89d638c3120a7f452138c44703b72363",
-                "reference": "1feda79c89d638c3120a7f452138c44703b72363",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/95b8d49f7c6d8b7936e94e577c2582beaa47f302",
+                "reference": "95b8d49f7c6d8b7936e94e577c2582beaa47f302",
                 "shasum": ""
             },
             "default-branch": true,
@@ -903,9 +903,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20241204"
             },
-            "time": "2024-12-04T20:01:46+00:00"
+            "time": "2024-12-04T21:22:16+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "a02169c0dc47cacd47e2d11c30904a7182eaa068"
+                "reference": "c31582488f31a08b3e57f5cb41e1a8e477664345"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/a02169c0dc47cacd47e2d11c30904a7182eaa068",
-                "reference": "a02169c0dc47cacd47e2d11c30904a7182eaa068",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/c31582488f31a08b3e57f5cb41e1a8e477664345",
+                "reference": "c31582488f31a08b3e57f5cb41e1a8e477664345",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241122"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20241204"
             },
-            "time": "2024-11-22T20:40:40+00:00"
+            "time": "2024-12-04T21:20:55+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1129,12 +1129,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "3bde6240182e7626a2984774bebfd94fe8ab1617"
+                "reference": "12535d9ac6daedfb64ac22d08b8329f57c415028"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/3bde6240182e7626a2984774bebfd94fe8ab1617",
-                "reference": "3bde6240182e7626a2984774bebfd94fe8ab1617",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/12535d9ac6daedfb64ac22d08b8329f57c415028",
+                "reference": "12535d9ac6daedfb64ac22d08b8329f57c415028",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1146,9 +1146,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241122"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20241204"
             },
-            "time": "2024-11-22T20:41:13+00:00"
+            "time": "2024-12-04T21:21:23+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
