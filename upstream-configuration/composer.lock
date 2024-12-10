@@ -1021,12 +1021,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_article_syndication.git",
-                "reference": "110a7bff326a4423ee507e8951a7b3fcc6d33645"
+                "reference": "f5355c351cbd535e86aa74cdb698604969bdc838"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_article_syndication/zipball/110a7bff326a4423ee507e8951a7b3fcc6d33645",
-                "reference": "110a7bff326a4423ee507e8951a7b3fcc6d33645",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_article_syndication/zipball/f5355c351cbd535e86aa74cdb698604969bdc838",
+                "reference": "f5355c351cbd535e86aa74cdb698604969bdc838",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1040,7 +1040,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_article_syndication/issues",
                 "source": "https://github.com/CuBoulder/ucb_article_syndication/tree/main"
             },
-            "time": "2024-12-03T21:27:57+00:00"
+            "time": "2024-12-10T23:12:46+00:00"
         },
         {
             "name": "cu-boulder/ucb_bootstrap_layouts",
