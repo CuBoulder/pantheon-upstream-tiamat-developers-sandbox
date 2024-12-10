@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "92fc932dad9e123bfdca7f79af09740dd7697399"
+                "reference": "7d12327cc76facb7aed64f3e676ba8a593341a01"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/92fc932dad9e123bfdca7f79af09740dd7697399",
-                "reference": "92fc932dad9e123bfdca7f79af09740dd7697399",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/7d12327cc76facb7aed64f3e676ba8a593341a01",
+                "reference": "7d12327cc76facb7aed64f3e676ba8a593341a01",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-12-10T21:07:16+00:00"
+            "time": "2024-12-10T21:13:17+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
