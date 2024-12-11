@@ -1318,12 +1318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "d60a340d86543019539accc2935c504f33509e59"
+                "reference": "678e9c662b758e9a4d4bac3b8bb014755f61c052"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/d60a340d86543019539accc2935c504f33509e59",
-                "reference": "d60a340d86543019539accc2935c504f33509e59",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/678e9c662b758e9a4d4bac3b8bb014755f61c052",
+                "reference": "678e9c662b758e9a4d4bac3b8bb014755f61c052",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1337,7 +1337,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-12-11T18:58:38+00:00"
+            "time": "2024-12-11T19:08:08+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
