@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "b698d311afefab5d8952c45d5d0d23530d14ed21"
+                "reference": "0d85fe7e8a5f0e011bf6f6ea8f2aeb29e13a2367"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b698d311afefab5d8952c45d5d0d23530d14ed21",
-                "reference": "b698d311afefab5d8952c45d5d0d23530d14ed21",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/0d85fe7e8a5f0e011bf6f6ea8f2aeb29e13a2367",
+                "reference": "0d85fe7e8a5f0e011bf6f6ea8f2aeb29e13a2367",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-12-10T23:38:46+00:00"
+            "time": "2024-12-11T18:26:56+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -7605,13 +7605,13 @@
                 "drupal-scaffold": {
                     "file-mapping": {
                         "[project-root]/.drush-lock-update": "assets/drush-lock-update",
-                        "[web-root]/sites/default/default.services.pantheon.preproduction.yml": "assets/default.services.pantheon.preproduction.yml",
-                        "[web-root]/sites/default/settings.pantheon.php": "assets/settings.pantheon.php",
                         "[web-root]/sites/default/settings.php": {
                             "mode": "replace",
                             "path": "assets/initial.settings.php",
                             "overwrite": false
-                        }
+                        },
+                        "[web-root]/sites/default/settings.pantheon.php": "assets/settings.pantheon.php",
+                        "[web-root]/sites/default/default.services.pantheon.preproduction.yml": "assets/default.services.pantheon.preproduction.yml"
                     }
                 }
             },
