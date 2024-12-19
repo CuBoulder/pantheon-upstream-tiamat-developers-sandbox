@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "7f3fa2d6fe080c48c9d594e08442d1eb81ef2dbb"
+                "reference": "7c9546e34b824851f09ca0206d77eaede4fd44c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/7f3fa2d6fe080c48c9d594e08442d1eb81ef2dbb",
-                "reference": "7f3fa2d6fe080c48c9d594e08442d1eb81ef2dbb",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/7c9546e34b824851f09ca0206d77eaede4fd44c5",
+                "reference": "7c9546e34b824851f09ca0206d77eaede4fd44c5",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-12-17T18:23:00+00:00"
+            "time": "2024-12-19T21:20:21+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -7805,7 +7805,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "4d264a7a2823a4c8d53cba8284757f27940ff258"
+                "reference": "4fd09e169d700ceab2a79dbdcbaeaede10e74ef8"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7971,8 +7971,8 @@
                 "simplesamlphp/saml2": "v4.16.14",
                 "simplesamlphp/simplesamlphp": "v2.3.5",
                 "simplesamlphp/simplesamlphp-assets-base": "v2.3.3",
-                "simplesamlphp/xml-common": "v1.22.1",
-                "simplesamlphp/xml-security": "v1.11.2",
+                "simplesamlphp/xml-common": "v1.23.1",
+                "simplesamlphp/xml-security": "v1.12.0",
                 "symfony/cache": "v6.4.16",
                 "symfony/cache-contracts": "v3.5.1",
                 "symfony/config": "v6.4.14",
@@ -9541,16 +9541,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.22.1",
+            "version": "v1.23.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "ea339c402b729e9a1b72d4734a3bde3f83ca6c5b"
+                "reference": "86f52b37e0b31191b72900948014fa7ae23de0f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/ea339c402b729e9a1b72d4734a3bde3f83ca6c5b",
-                "reference": "ea339c402b729e9a1b72d4734a3bde3f83ca6c5b",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/86f52b37e0b31191b72900948014fa7ae23de0f5",
+                "reference": "86f52b37e0b31191b72900948014fa7ae23de0f5",
                 "shasum": ""
             },
             "require": {
@@ -9597,20 +9597,20 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-12-14T22:35:27+00:00"
+            "time": "2024-12-19T20:13:10+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",
-            "version": "v1.11.2",
+            "version": "v1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-security.git",
-                "reference": "42a99a810b7f7b12b9988aa743886b8f45c5c40e"
+                "reference": "797c984b03e1cd52483538ff9e9b762cfbd942c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/42a99a810b7f7b12b9988aa743886b8f45c5c40e",
-                "reference": "42a99a810b7f7b12b9988aa743886b8f45c5c40e",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/797c984b03e1cd52483538ff9e9b762cfbd942c1",
+                "reference": "797c984b03e1cd52483538ff9e9b762cfbd942c1",
                 "shasum": ""
             },
             "require": {
@@ -9659,9 +9659,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplesamlphp/xml-security/issues",
-                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.11.2"
+                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.12.0"
             },
-            "time": "2024-12-14T22:59:32+00:00"
+            "time": "2024-12-19T20:20:40+00:00"
         },
         {
             "name": "symfony/cache",
