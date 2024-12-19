@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "110ca57a6028570f3fc8578ac5403858",
+    "content-hash": "13d76dda72a0afaa401d9789aae9a462",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1068,6 +1068,33 @@
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
             "time": "2024-11-20T23:07:48+00:00"
+        },
+        {
+            "name": "cu-boulder/ucb_campus_map",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CuBoulder/ucb_campus_map.git",
+                "reference": "2d122398d70ca2673382ec28942eb46d9c23b877"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_map/zipball/2d122398d70ca2673382ec28942eb46d9c23b877",
+                "reference": "2d122398d70ca2673382ec28942eb46d9c23b877",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Enables the CU Boulder Campus Map.",
+            "support": {
+                "issues": "https://github.com/CuBoulder/ucb_campus_map/issues",
+                "source": "https://github.com/CuBoulder/ucb_campus_map/tree/main"
+            },
+            "time": "2024-12-05T21:27:08+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -6883,16 +6910,16 @@
         },
         {
             "name": "laminas/laminas-escaper",
-            "version": "2.14.0",
+            "version": "2.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-escaper.git",
-                "reference": "0f7cb975f4443cf22f33408925c231225cfba8cb"
+                "reference": "c612b0488ae486284c39885efca494c180f16351"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-escaper/zipball/0f7cb975f4443cf22f33408925c231225cfba8cb",
-                "reference": "0f7cb975f4443cf22f33408925c231225cfba8cb",
+                "url": "https://api.github.com/repos/laminas/laminas-escaper/zipball/c612b0488ae486284c39885efca494c180f16351",
+                "reference": "c612b0488ae486284c39885efca494c180f16351",
                 "shasum": ""
             },
             "require": {
@@ -6904,12 +6931,12 @@
                 "zendframework/zend-escaper": "*"
             },
             "require-dev": {
-                "infection/infection": "^0.27.9",
-                "laminas/laminas-coding-standard": "~3.0.0",
+                "infection/infection": "^0.27.11",
+                "laminas/laminas-coding-standard": "~3.0.1",
                 "maglnet/composer-require-checker": "^3.8.0",
-                "phpunit/phpunit": "^9.6.16",
+                "phpunit/phpunit": "^9.6.22",
                 "psalm/plugin-phpunit": "^0.19.0",
-                "vimeo/psalm": "^5.21.1"
+                "vimeo/psalm": "^5.26.1"
             },
             "type": "library",
             "autoload": {
@@ -6941,7 +6968,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2024-10-24T10:12:53+00:00"
+            "time": "2024-12-17T19:39:54+00:00"
         },
         {
             "name": "laminas/laminas-feed",
@@ -10971,12 +10998,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
+                },
                 "branch-alias": {
                     "dev-main": "1.28-dev"
-                },
-                "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
                 }
             },
             "autoload": {
@@ -11133,8 +11160,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -13019,6 +13046,7 @@
         "cu-boulder/ucb_article_author": 20,
         "cu-boulder/ucb_article_syndication": 20,
         "cu-boulder/ucb_bootstrap_layouts": 20,
+        "cu-boulder/ucb_campus_map": 20,
         "cu-boulder/ucb_campus_news": 20,
         "cu-boulder/ucb_ckeditor_plugins": 20,
         "cu-boulder/ucb_custom_entities": 20,
