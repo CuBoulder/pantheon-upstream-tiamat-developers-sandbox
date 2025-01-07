@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "6d880974d7bbca11dbcc04371edb8ca2c826f9fd"
+                "reference": "22d7dcb838777cc7d3a172e04b54aa2ac2ba119a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/6d880974d7bbca11dbcc04371edb8ca2c826f9fd",
-                "reference": "6d880974d7bbca11dbcc04371edb8ca2c826f9fd",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/22d7dcb838777cc7d3a172e04b54aa2ac2ba119a",
+                "reference": "22d7dcb838777cc7d3a172e04b54aa2ac2ba119a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2025-01-07T20:34:40+00:00"
+            "time": "2025-01-07T21:24:39+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1345,12 +1345,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "678e9c662b758e9a4d4bac3b8bb014755f61c052"
+                "reference": "dbf0a4242ff4d5da171709bb75232bb5213fc14c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/678e9c662b758e9a4d4bac3b8bb014755f61c052",
-                "reference": "678e9c662b758e9a4d4bac3b8bb014755f61c052",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/dbf0a4242ff4d5da171709bb75232bb5213fc14c",
+                "reference": "dbf0a4242ff4d5da171709bb75232bb5213fc14c",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1364,7 +1364,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-12-11T19:08:08+00:00"
+            "time": "2025-01-07T21:28:41+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
