@@ -913,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "85aa6e548efa6c21e3edc0f95cd5df78f4eb7c36"
+                "reference": "c5b7ae7314699bf3666ef5b9b450e3792d1462ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/85aa6e548efa6c21e3edc0f95cd5df78f4eb7c36",
-                "reference": "85aa6e548efa6c21e3edc0f95cd5df78f4eb7c36",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/c5b7ae7314699bf3666ef5b9b450e3792d1462ba",
+                "reference": "c5b7ae7314699bf3666ef5b9b450e3792d1462ba",
                 "shasum": ""
             },
             "default-branch": true,
@@ -930,9 +930,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20250205"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2025-02-05T19:55:59+00:00"
+            "time": "2025-02-06T21:07:08+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
