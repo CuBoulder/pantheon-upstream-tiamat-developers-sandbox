@@ -1,5 +1,5 @@
 {
-    "name": "cu-boulder/tiamat_developer_sandbox",
+    "name": "cu-boulder/tiamat_upstream",
     "description": "Install Tiamat with Composer on Pantheon.",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -20,18 +20,22 @@
     "require": {
         "composer/installers": "^2.1",
         "cweagans/composer-patches": "^1.7",
-        "drush/drush": "^12",
+        "drush/drush": "^13",
         "oomphinc/composer-installers-extender": "^2.0",
+        "pantheon-systems/upstream-management": "*",
         "pantheon-upstreams/upstream-configuration": "dev-master"
-    },
-    "require-dev": {
-        "drupal/core-dev": "~10.2.0"
     },
     "conflict": {
         "drupal/drupal": "*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Drupal\\ckeditor5_bootstrap_accordion\\": "web/modules/custom/ckeditor5_bootstrap_accordion/src/",
+            "Drupal\\ckeditor5_icons\\": "web/modules/custom/ckeditor5_icons/src/"
+        }
+    },
     "extra": {
         "drupal-scaffold": {
             "locations": {
@@ -89,6 +93,7 @@
         "enable-patching": true
     },
     "config": {
+        "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
         "platform": {
@@ -117,7 +122,8 @@
             "rm -rf vendor/simplesamlphp/simplesamlphp/cert",
             "ln -sf ../../../private/metadata vendor/simplesamlphp/simplesamlphp/metadata",
             "ln -sf ../../../private/config vendor/simplesamlphp/simplesamlphp/config",
-            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert"
+            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert",
+            "composer dump-autoload -o"
         ],
         "post-install-cmd": [
             "rm -rf vendor/simplesamlphp/simplesamlphp/metadata",
@@ -125,7 +131,8 @@
             "rm -rf vendor/simplesamlphp/simplesamlphp/cert",
             "ln -sf ../../../private/metadata vendor/simplesamlphp/simplesamlphp/metadata",
             "ln -sf ../../../private/config vendor/simplesamlphp/simplesamlphp/config",
-            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert"
+            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert",
+            "composer dump-autoload -o"
         ]
     }
 }
